@@ -2,8 +2,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class lessFile {
+    public static void lesson(String[] args) {
 
         FileWriter io;   Scanner keyb;
         String inputStr, inputBuff = "";
